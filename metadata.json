@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: Remix: Remix: تطبيق نور الإسلام",
+  "description": "تطبيق إسلامي شامل يضم المصحف الشريف، الأذكار، مواقيت الصلاة، والمزيد بتصميم عصري.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
